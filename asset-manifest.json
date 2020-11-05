@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mharislive/react-app/static/css/main.6d05c48c.chunk.css",
+    "main.js": "/mharislive/react-app/static/js/main.16c18a60.chunk.js",
+    "main.js.map": "/mharislive/react-app/static/js/main.16c18a60.chunk.js.map",
+    "runtime-main.js": "/mharislive/react-app/static/js/runtime-main.5bc2902e.js",
+    "runtime-main.js.map": "/mharislive/react-app/static/js/runtime-main.5bc2902e.js.map",
+    "static/js/2.a7d7c7e3.chunk.js": "/mharislive/react-app/static/js/2.a7d7c7e3.chunk.js",
+    "static/js/2.a7d7c7e3.chunk.js.map": "/mharislive/react-app/static/js/2.a7d7c7e3.chunk.js.map",
+    "index.html": "/mharislive/react-app/index.html",
+    "static/css/main.6d05c48c.chunk.css.map": "/mharislive/react-app/static/css/main.6d05c48c.chunk.css.map",
+    "static/js/2.a7d7c7e3.chunk.js.LICENSE.txt": "/mharislive/react-app/static/js/2.a7d7c7e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bc2902e.js",
+    "static/js/2.a7d7c7e3.chunk.js",
+    "static/css/main.6d05c48c.chunk.css",
+    "static/js/main.16c18a60.chunk.js"
+  ]
+}
